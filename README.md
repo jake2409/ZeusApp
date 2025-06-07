@@ -3,6 +3,13 @@
 
 Um sistema console simples para registro e visualização de quedas de energia por usuários comuns e companhias (ex: Enel).
 
+## 👤 Integrantes
+- Lucas Rodrigues Delfino/ RM550196
+- Luisa Cristina dos Santos Neves/ RM551889
+- Gabriel aparecido Cassalho Xavier / RM99794
+
+---
+
 ## 🧭 Finalidade
 
 O ZeusApk permite que:

@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\bin\Debug\net8.0\ZeusApk.exe
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\bin\Debug\net8.0\ZeusApk.deps.json
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\bin\Debug\net8.0\ZeusApk.runtimeconfig.json
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\bin\Debug\net8.0\ZeusApk.dll
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\bin\Debug\net8.0\ZeusApk.pdb
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.dll
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\refint\ZeusApk.dll
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.pdb
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ZeusApk.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ZeusApk\ZeusApk\obj\Debug\net8.0\ref\ZeusApk.dll
